@@ -21,5 +21,6 @@ public static class Connection
     public static string RoleName { get; set; }
 
     public static string GitTry { get; set; }
+    public static string GitTryHello { get; set; }
 
 }
